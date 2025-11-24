@@ -53,7 +53,7 @@ By completing this tutorial, you'll master:
 ### **Option 2: Fast Deploy (For Experienced Users)**
 ```bash
 # Deploy everything at once
-git clone https://github.com/Osomudeya/DevOps-Home-Lab-2025.git
+git clone https://github.com/wcassw/DevOps-Home-Lab-2025.git
 cd DevOps-Home-Lab-2025
 make deploy-all
 
@@ -264,8 +264,8 @@ k3d cluster delete dev-cluster
 ## 🆘 **Getting Help**
 
 ### **📞 Support Channels**
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Osomudeya/DevOps-Home-Lab-2025/issues)
-- 💬 **Questions**: [GitHub Discussions](https://github.com/Osomudeya/DevOps-Home-Lab-2025/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/wcassw/DevOps-Home-Lab-2025/issues)
+- 💬 **Questions**: [GitHub Discussions](https://github.com/wcassw/DevOps-Home-Lab-2025/discussions)
 - 📖 **Documentation**: [Troubleshooting Guide](docs/08-troubleshooting.md)
 - 🎓 **Learning**: [FAQ Section](docs/09-faq.md)
 
@@ -293,7 +293,7 @@ We welcome contributions! Here's how you can help:
 - 🔧 **Add new features** or troubleshooting guides
 - ⭐ **Star the repository** to show support
 
-**📋 See**: [GitHub Issues](https://github.com/Osomudeya/DevOps-Home-Lab-2025.git/issues) for bug reports and feature requests
+**📋 See**: [GitHub Issues](https://github.com/wcassw/DevOps-Home-Lab-2025.git/issues) for bug reports and feature requests
 
 ---
 
@@ -316,10 +316,10 @@ Special thanks to the open-source community and the maintainers of:
 
 ## 📈 **Project Stats**
 
-![GitHub stars](https://img.shields.io/github/stars/Osomudeya/DevOps-Home-Lab-2025?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Osomudeya/DevOps-Home-Lab-2025?style=social)
-![GitHub downloads](https://img.shields.io/github/downloads/Osomudeya/DevOps-Home-Lab-2025/total?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Osomudeya/DevOps-Home-Lab-2025)
+![GitHub stars](https://img.shields.io/github/stars/wcassw/DevOps-Home-Lab-2025?style=social)
+![GitHub forks](https://img.shields.io/github/forks/wcassw/DevOps-Home-Lab-2025?style=social)
+![GitHub downloads](https://img.shields.io/github/downloads/wcassw/DevOps-Home-Lab-2025/total?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/wcassw/DevOps-Home-Lab-2025)
 
 **📊 Learning Impact**: 1000+ developers trained • 50+ companies using in production • 95% positive feedback
 
@@ -341,14 +341,14 @@ Special thanks to the open-source community and the maintainers of:
 ---
 ## Where to go next
 
-- ✅ **Stuck?** Open the **DevOps-Troubleshooting-Toolkit**: [https://github.com/Osomudeya/DevOps-Troubleshooting-Toolkit.git](https://github.com/Osomudeya/DevOps-Troubleshooting-Toolkit.git)
+- ✅ **Stuck?** Open the **DevOps-Troubleshooting-Toolkit**: [https://github.com/wcassw/DevOps-Troubleshooting-Toolkit.git](https://github.com/wcassw/DevOps-Troubleshooting-Toolkit.git)
   - Linux • Docker • Kubernetes • AWS • Azure • Observability
 
 - 🚶 **If you're early in your journey:** Start/continue the core path  
-  → **Beginner-DevOps-Labs** (Milestones 0 → 6) This repo Link: [https://github.com/Osomudeya/DevOps-Home-Lab-2025.git](https://github.com/Osomudeya/DevOps-Home-Lab-2025.git)
+  → **Beginner-DevOps-Labs** (Milestones 0 → 6) This repo Link: [https://github.com/wcassw/DevOps-Home-Lab-2025.git](https://github.com/wcassw/DevOps-Home-Lab-2025.git)
 
 - 🧰 **Want small, visual wins:**  
   → **Quick DevOps Wins** (this repo)
 
 - 📦 **Ready for portfolio depth:**  
-  → **Weekend-DevOps-Projects** (5 focused, resume-grade builds) Link: [https://github.com/Osomudeya/side-devops-projects.git](https://github.com/Osomudeya/side-devops-projects.git)
+  → **Weekend-DevOps-Projects** (5 focused, resume-grade builds) Link: [https://github.com/wcassw/side-devops-projects.git](https://github.com/wcassw/side-devops-projects.git)
